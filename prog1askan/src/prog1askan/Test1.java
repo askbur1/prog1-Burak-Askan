@@ -13,7 +13,8 @@ public class Test1 {
 		boolean logik= false;
 		int antalhjul=2,  antalvexlar=3;
 	    System.out.println(tal3);
-		
+		//hej 
+	    
 		
 	   
 	   
